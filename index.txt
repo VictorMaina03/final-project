@@ -1,0 +1,191 @@
+Ethan Ward - Web Developer from New York
+
+
+
+#---------- HEADER ----------#
+
+PETCARE
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Services
+Contact
+Blog
+
+
+#---------- HERO ----------#
+
+alt = Petcare
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = Love pet
+
+Welcome to 
+
+PetCare
+
+Where every pet matters
+
+At PetCare, we understand that your pets are more than just animals they are beloved members of your family. That's why we are dedicated to providing top quality care that ensures their health, happiness, and well being
+
+Customer Care
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Petcare
+
+About Us
+
+Our Story
+
+ PetCare was established in 2024, born out of a genuine love for animals and a desire to make a positive impact on their lives. Our founder, Victor Maina, envisioned a place where pets would receive not only top-notch medical care but also the love and respect they deserve.
+
+View Portfolio
+
+Testimonials
+
+"I can't say enough good things about [Your Pet Care Service]. They treat my dog like their own and always go above and beyond. Highly recommend!"
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+<ion-icon name="arrow-forward"></ion-icon>
+
+The best
+
+The best
+
+The best
+
+
+
+#---------- Services ----------#
+
+Our Services
+
+Our Services
+In-Home Visits:
+
+Feeding and Watering: Ensuring your pet has fresh food and water.
+Exercise and Playtime: Daily walks and play sessions to keep your pet active.
+Litter Box Cleaning: Regular cleaning to maintain hygiene.
+Medication Administration: Timely administration of any prescribed medications.
+Customized Care: Tailored services to meet your pet’s unique needs.
+Overnight Stays:
+
+Extended Companionship: A pet sitter stays overnight to provide continuous care and comfort.
+Security: Ensuring the safety of your home and pet.
+Special Services:
+
+Puppy and Kitten Care: Extra attention for young pets.
+Senior Pet Care: Specialized care for older pets with specific needs.
+Special Needs Care: Catering to pets with medical or behavioral issues.
+Why Choose Our Pet Sitting Services?
+Professional and Experienced Sitters:
+
+Our team consists of trained and experienced pet sitters who understand animal behavior and care.
+Background checks are conducted to ensure the safety and reliability of our staff.
+Customized Care Plans:
+
+We work with you to create a personalized care plan tailored to your pet’s routine and preferences.
+Regular Updates:
+
+Stay connected with regular updates, photos, and videos of your pet during our visits.
+Communication via phone, email, or our dedicated app.
+Safety and Security:
+
+We follow strict safety protocols to ensure the well-being of your pets and the security of your home.
+Our sitters are insured and bonded for your peace of mind.
+Emergency Preparedness:
+
+Trained to handle emergencies and equipped with first aid knowledge.
+Access to veterinary care if needed.
+How It Works
+Initial Consultation:
+
+Schedule a meet-and-greet with your pet sitter to discuss your pet’s needs and routines.
+Fill out detailed pet care forms to provide all necessary information.
+Booking:
+
+Choose the services you need and book online or over the phone.
+Flexible scheduling to accommodate your plans.
+Pet Sitting:
+
+Our sitters follow the care plan, providing love and attention to your pets.
+Enjoy peace of mind knowing your pets are in good hands.
+Feedback:
+
+Receive updates and provide feedback on our services to ensure continuous improvement.
+
+
+
+#---------- CONTACT ----------#
+
+For your pet wellbeing
+
+Contact Us
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+Moi Avenue Nairobi Kenya
+
+<ion-icon name="mail"></ion-icon>
+Email
+info@petcare.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++254 792757169
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+Care for pets
+
+How to care for your pets during summer
+
+alt = helping pets
+
+Benefits of regular grooming
+
+alt = helping pets
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2022 codewithsadee. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
