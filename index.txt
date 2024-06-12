@@ -179,7 +179,7 @@ alt = helping pets
 
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+&copy; 2024 Caring for pets. All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
